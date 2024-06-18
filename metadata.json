@@ -1,0 +1,9 @@
+{
+  "name": "Window list hotkeys",
+  "description": "Add hotkeys to focus windows in window list",
+  "uuid": "windowlisthotkeys@sargo.cc",
+  "shell-version": [
+    "46"
+    "45"
+  ]
+}

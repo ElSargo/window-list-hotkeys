@@ -1,0 +1,41 @@
+<?xml version=1.0 encoding=UTF-8?>
+<schemalist>
+    <schema id="org.gnome.shell.extensions.windowlisthotkeys" path="/org/gnome/shell/extensions/windowlisthotkeys/">
+        <key name="activate-window-1" type="as">
+            <default><![CDATA[['<Alt><Shift>1']]]></default>
+            <summary>Hotkey to mark window</summary>
+        </key>
+        <key name="activate-window-2" type="as">
+            <default><![CDATA[['<Alt><Shift>2']]]></default>
+            <summary>Hotkey to mark window</summary>
+        </key>
+        <key name="activate-window-3" type="as">
+            <default><![CDATA[['<Alt><Shift>3']]]></default>
+            <summary>Hotkey to mark window</summary>
+        </key>
+        <key name="activate-window-4" type="as">
+            <default><![CDATA[['<Alt><Shift>4']]]></default>
+            <summary>Hotkey to mark window</summary>
+        </key>
+        <key name="activate-window-5" type="as">
+            <default><![CDATA[['<Alt><Shift>5']]]></default>
+            <summary>Hotkey to mark window</summary>
+        </key>
+        <key name="activate-window-6" type="as">
+            <default><![CDATA[['<Alt><Shift>6']]]></default>
+            <summary>Hotkey to mark window</summary>
+        </key>
+        <key name="activate-window-7" type="as">
+            <default><![CDATA[['<Alt><Shift>7']]]></default>
+            <summary>Hotkey to mark window</summary>
+        </key>
+        <key name="activate-window-8" type="as">
+            <default><![CDATA[['<Alt><Shift>8']]]></default>
+            <summary>Hotkey to mark window</summary>
+        </key>
+        <key name="activate-window-9" type="as">
+            <default><![CDATA[['<Alt><Shift>9']]]></default>
+            <summary>Hotkey to mark window</summary>
+        </key>
+    </schema>
+</schemalist>
