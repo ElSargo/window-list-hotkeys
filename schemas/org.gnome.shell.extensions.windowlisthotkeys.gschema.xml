@@ -3,39 +3,39 @@
     <schema id="org.gnome.shell.extensions.windowlisthotkeys" path="/org/gnome/shell/extensions/windowlisthotkeys/">
         <key name="activate-window-1" type="as">
             <default><![CDATA[['<Alt><Shift>1']]]></default>
-            <summary>Hotkey to mark window</summary>
+            <summary>Hotkey to activate window 1</summary>
         </key>
         <key name="activate-window-2" type="as">
             <default><![CDATA[['<Alt><Shift>2']]]></default>
-            <summary>Hotkey to mark window</summary>
+            <summary>Hotkey to activate window 2</summary>
         </key>
         <key name="activate-window-3" type="as">
             <default><![CDATA[['<Alt><Shift>3']]]></default>
-            <summary>Hotkey to mark window</summary>
+            <summary>Hotkey to activate window 3</summary>
         </key>
         <key name="activate-window-4" type="as">
             <default><![CDATA[['<Alt><Shift>4']]]></default>
-            <summary>Hotkey to mark window</summary>
+            <summary>Hotkey to activate window 4</summary>
         </key>
         <key name="activate-window-5" type="as">
             <default><![CDATA[['<Alt><Shift>5']]]></default>
-            <summary>Hotkey to mark window</summary>
+            <summary>Hotkey to activate window 5</summary>
         </key>
         <key name="activate-window-6" type="as">
             <default><![CDATA[['<Alt><Shift>6']]]></default>
-            <summary>Hotkey to mark window</summary>
+            <summary>Hotkey to activate window 6</summary>
         </key>
         <key name="activate-window-7" type="as">
             <default><![CDATA[['<Alt><Shift>7']]]></default>
-            <summary>Hotkey to mark window</summary>
+            <summary>Hotkey to activate window 7</summary>
         </key>
         <key name="activate-window-8" type="as">
             <default><![CDATA[['<Alt><Shift>8']]]></default>
-            <summary>Hotkey to mark window</summary>
+            <summary>Hotkey to activate window 8</summary>
         </key>
         <key name="activate-window-9" type="as">
             <default><![CDATA[['<Alt><Shift>9']]]></default>
-            <summary>Hotkey to mark window</summary>
+            <summary>Hotkey to activate window 9</summary>
         </key>
     </schema>
 </schemalist>
